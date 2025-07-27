@@ -9,7 +9,7 @@
 ## VIDEO DEMO
 <div align='center'>
 
-[<img src='pic/0.jpg'></img> (https://drive.google.com/file/d/1H7l8iJ4pFXfINx-GW8itSORyJB54yv2u/view?usp=drivesdk/0.jpg)]
+[<img src='pic/0.jpg'></img>](https://drive.google.com/file/d/1H7l8iJ4pFXfINx-GW8itSORyJB54yv2u/view?usp=drivesdk/0.jpg)
 
 </div>
 
